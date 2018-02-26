@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mạnh đẹp zai
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Fam Manh. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Tôi đang là sinh viên cntt năm 2 ở Chel, Ru
+- Tôi 20 tuổi,đam mê và theo đuổi cntt
 
-What else do you need?
+Tôi mới học làm website mong các ban ủng hộ
 
-### my history
+### My history
+Tôi sinh ra và lớn lên tại Hà Tĩnh, Việt Nam. Đến năm 14 tuổi tôi sang Nga ở cùng bố mẹ.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
